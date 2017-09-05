@@ -4,5 +4,5 @@ use_frameworks!
 
 target 'RainyShinyCloud' do
   pod 'Alamofire', '~> 4.4'
-  
+  pod 'SwiftyJSON'
 end
